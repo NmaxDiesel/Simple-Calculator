@@ -2,3 +2,5 @@
 
 
 buat bg
+
+obj
