@@ -3,4 +3,8 @@
 
 buat bg
 
-obj
+object
+
+requir
+
+concl
